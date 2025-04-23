@@ -10,13 +10,8 @@ This project demonstrates how to host a static website using GitHub Pages, elimi
 
 ## 🌐 Live Site
 Visit the hosted website here:  
-👉 https://polankisravya.github.io/s3-static-site/
+👉  https://gnapika2005.github.io/S3-static-site/
 
-## 📁 Project Structure
-```
-.
-├── index.html
-```
 
 ## 🚀 Deployment Steps
 1. Created a new GitHub repository named `s3-static-site`
